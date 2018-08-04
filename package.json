@@ -1,5 +1,5 @@
 {
-  "name": "mean-contactlist-angular2",
+  "name": "mean-mikeycontact-list-angular2",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -10,6 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "postinstall": "ng build --output-path dist"
+    https://devcenter.heroku.com/articles/nodejs-support#specifying-a-node-js-version
   },
   "private": true,
   "dependencies": {
