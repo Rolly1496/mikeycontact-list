@@ -10,7 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "postinstall": "ng build --output-path dist"
-    https://devcenter.heroku.com/articles/nodejs-support#specifying-a-node-js-version
+    "https://devcenter.heroku.com/articles/nodejs-support#specifying-a-node-js-version"
   },
   "private": true,
   "dependencies": {
