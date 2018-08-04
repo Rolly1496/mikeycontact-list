@@ -10,6 +10,15 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "postinstall": "ng build --output-path dist"
+    },
+    {
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "v8.11.3"
+  }
+
     
   },
   "private": true,
