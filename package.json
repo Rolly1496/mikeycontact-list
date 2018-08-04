@@ -1,6 +1,6 @@
 {
   "name": "mean-mikeycontact-list-angular2",
-  "version": "0.0.0",
+  "version": "v8.11.3",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -10,10 +10,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "postinstall": "ng build --output-path dist"
-  
-  "engines": {
-    "node": "v8.11.3"
-  }
 },
 
     
