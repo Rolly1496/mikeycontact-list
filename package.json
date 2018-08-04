@@ -10,7 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "postinstall": "ng build --output-path dist"
-    "https://devcenter.heroku.com/articles/nodejs-support#specifying-a-node-js-version"
+    
   },
   "private": true,
   "dependencies": {
@@ -31,6 +31,9 @@
     "mongodb": "^3.1.1",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.6.8",
